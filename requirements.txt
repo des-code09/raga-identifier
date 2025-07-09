@@ -1,0 +1,7 @@
+streamlit
+pytube
+pydub
+librosa
+numpy
+tensorflow
+joblib
